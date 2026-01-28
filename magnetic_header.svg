@@ -3,7 +3,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .hero-title {
-          font-size: 2.6rem;
+          font-size: 4rem;
           font-weight: 800;
           background: linear-gradient(90deg, #00c6ff, #0072ff);
           -webkit-background-clip: text;
